@@ -1,0 +1,6 @@
+pandas~=1.4
+requests~=2.27
+mysql-connector-python~=8.0.29
+html5lib~=1.1
+lxml~=4.8.0
+schedule~=1.1.0
